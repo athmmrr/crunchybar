@@ -32,7 +32,7 @@ https://templatemo.com/tm-559-zay-shop
             <div class="w-100 d-flex justify-content-between">
                 <div>
                     <i class="fa fa-envelope mx-2"></i>
-                    <a class="navbar-sm-brand text-light text-decoration-none" href="mailto:info@company.com">info@company.com</a>
+                    <a class="navbar-sm-brand text-light text-decoration-none" href="mailto:hollowdream09@gmail.com">hollowdream09@gmail.com</a>
                 </div>
                 <div>
                     <a class="text-light" href="https://www.instagram.com/_.athmmrr/" target="_blank"><i class="fab fa-instagram fa-sm fa-fw me-2"></i></a>
@@ -48,7 +48,7 @@ https://templatemo.com/tm-559-zay-shop
     <nav class="navbar navbar-expand-lg navbar-light shadow">
         <div class="container d-flex justify-content-between align-items-center">
 
-            <a class="navbar-brand text-success logo h1 align-self-center" href="index.html">
+            <a class="navbar-brand text-warning logo h1 align-self-center" href="index.html">
                 Crunchy
             </a>
 
@@ -67,9 +67,6 @@ https://templatemo.com/tm-559-zay-shop
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/shop">Shop</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/Contact">Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -285,7 +282,7 @@ https://templatemo.com/tm-559-zay-shop
             <div class="row">
 
                 <div class="col-md-4 pt-5">
-                    <h2 class="h2 text-success border-bottom pb-3 border-light logo">Crunchy Bar</h2>
+                    <h2 class="h2 text-warning border-bottom pb-3 border-light logo">Crunchy Bar</h2>
                     <ul class="list-unstyled text-light footer-link-list">
                         <li>
                             <i class="fas fa-map-marker-alt fa-fw"></i>
